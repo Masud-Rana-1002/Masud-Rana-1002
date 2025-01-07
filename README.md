@@ -55,10 +55,13 @@
 <h2 align="left">Skills</h2>
 
 ###
-<div>
-  
-<p align="left">🖥️ HTML<br>🎨 CSS<br>💡 Tailwind CSS<br>⚡ JavaScript<br>🛠️ Node.js<br>🗄️ MongoDB<br>💻 Express<br>🎨 Figma<br>🔧 Git</p>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="500" />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <p>🖥️ HTML<br>🎨 CSS<br>💡 Tailwind CSS<br>⚡ JavaScript<br>🛠️ Node.js<br>🗄️ MongoDB<br>💻 Express<br>🎨 Figma<br>🔧 Git</p>
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="250" />
+  </div>
 </div>
 
 ###
