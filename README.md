@@ -55,7 +55,7 @@
 <h2 align="left">Skills</h2>
 
 ###
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <div>
     <p>🖥️ HTML<br>🎨 CSS<br>💡 Tailwind CSS<br>⚡ JavaScript<br>🛠️ Node.js<br>🗄️ MongoDB<br>💻 Express<br>🎨 Figma<br>🔧 Git</p>
   </div>
