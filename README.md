@@ -1,7 +1,6 @@
 <div align="center">
   <img height="200" src="https://i.ibb.co/5YNNK9c/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png" />
-  <br />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="500" />
+ 
 </div>
 
 ###
@@ -55,8 +54,11 @@
 <h2 align="left">Skills</h2>
 
 ###
-
+<div>
+  
 <p align="left">🖥️ HTML<br>🎨 CSS<br>💡 Tailwind CSS<br>⚡ JavaScript<br>🛠️ Node.js<br>🗄️ MongoDB<br>💻 Express<br>🎨 Figma<br>🔧 Git</p>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="500" />
+</div>
 
 ###
 
