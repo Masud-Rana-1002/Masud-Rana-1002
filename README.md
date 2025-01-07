@@ -61,7 +61,7 @@
   </div>
   <div>
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" class="w-64" />
-  </di
+  </div>
 
 ###
 
