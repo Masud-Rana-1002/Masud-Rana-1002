@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/vctQP6t/Purple-Modern-Web-Developer-Linked-In-Background-Photo-1.png" />
+  <img height="200" src="https://i.ibb.co/5YNNK9c/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png-1.png" />
  
 </div>
 
